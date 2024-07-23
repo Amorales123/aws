@@ -1,0 +1,14 @@
+{
+  "name": "click-counter-app",
+  "version": "1.0.0",
+  "description": "Aplicación para contar clicks y enviar logs a CloudWatch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.814.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
