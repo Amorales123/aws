@@ -19,7 +19,6 @@
   - [ECS](#ECS)
     - [TaskDefinition](#TaskDefinition)
 - [Rollback (Clean Up Resources)](#Rollback)
-- [TODO](../TODO.md)
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
