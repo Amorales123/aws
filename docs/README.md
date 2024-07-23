@@ -23,7 +23,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-The following projects shows how to deploy an easy project with aws architecture into ecs fargate, using some services like ecr, ecs, s3 and Firelens as routing logs.
+The following projects shows how to deploy an easy project with aws architecture into ecs fargate, using some services like ecr, ecs, s3 and Firelens as routing logs. [Link to Repo](https://github.com/Amorales123/aws)
 
 ## 🏁 Docker Requisites <a name = "Docker_Requisites"></a>
 
